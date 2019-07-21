@@ -1,0 +1,8 @@
+newsapi.org
+
+Registration complete
+Your API key is: 5de8c4c624a6470ca320c459fb0308a5
+
+For help getting started please look at our getting started guide.
+
+We post API status updates and other news on our Twitter feed, so please follow us there if that's important to you:
